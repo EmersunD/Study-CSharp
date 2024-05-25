@@ -22,4 +22,4 @@ Console.WriteLine($"Hello,{pessoa}! You have {num} in your inbox. The temperatur
 
 Console.ReadLine();
 
-//This a same code, but, second is a clean code.
+//This a same code, but second is a clean code.
